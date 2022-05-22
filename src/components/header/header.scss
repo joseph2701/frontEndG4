@@ -1,0 +1,28 @@
+@import "../../assets/style/variables";
+
+.header {
+  // padding: 20px;
+  display: flex;
+  justify-content: space-center;  
+  align-items:center;
+  color:#b34202;
+  // background: map-get($colors-branding, 'secondary');
+  // background-color: #fff;
+  width:1328px;
+
+  &_logo {
+    font-size: 40px;
+    font-weight:bold;
+    width: 35%;
+  }
+ 
+  &_login {    
+    color: #000;        
+    font-size: 2.5rem;
+  }
+
+  &_buy_car {
+    width: 40px;
+  }
+  
+}

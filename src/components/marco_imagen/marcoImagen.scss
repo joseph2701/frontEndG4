@@ -1,0 +1,14 @@
+.imagen {
+    display: block;
+    background: transparent;
+    padding: 8px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px #999;
+    width: 100%;
+
+    &:hover {
+      box-shadow: 0 0 10px rgb(182, 182, 182);
+    } 
+
+  }

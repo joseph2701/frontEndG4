@@ -1,0 +1,9 @@
+.page-about {
+  width: 100%;
+
+  .marco-imagen:nth-child(even) {
+    img {
+      order: 1;
+    }
+  }
+}

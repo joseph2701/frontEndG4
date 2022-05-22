@@ -1,0 +1,110 @@
+{
+  "portafolio": [        
+    {
+      "title": "Future Assurance Manager",
+      "description": "In magnam nemo qui dolores. Et itaque minima et voluptatem quod porro officiis. Asperiores laboriosam est eos sit incidunt explicabo dolorum quisquam maxime.\n \rVeritatis repudiandae et in modi aut inventore incidunt. Quis enim velit dolorum blanditiis error at quas. Eveniet accusamus voluptatem sit iure. Ratione atque rerum assumenda saepe maiores porro. At laborum fugit nihil. Quam at adipisci.\n \rEt et corporis tenetur ex magnam labore earum et. Non eum ut et et quos quis velit aut vero. Quia vero quo corporis exercitationem. Et perferendis tempora libero expedita. Voluptatum ratione autem deleniti cumque culpa recusandae eos.",
+      "image": "http://placeimg.com/640/480/nature",
+      "id": "30"
+    },
+    {
+      "title": "International Division Manager",
+      "description": "Animi aut distinctio consequatur voluptates qui repellendus. Repellendus placeat consequatur non odio. Saepe quibusdam nesciunt. Modi sed dolores voluptates nisi et. Dolorum magni neque ut voluptatem natus expedita. Aspernatur est ut perspiciatis nam.\n \rMaiores commodi repellat optio dolores quis veniam vero culpa. Facere quo quia sequi perferendis dolorum perspiciatis. Veritatis dignissimos ea quia facilis. Et reiciendis sapiente.\n \rFuga quis molestias expedita. Nostrum id expedita sunt voluptas blanditiis corrupti nam autem. Eius occaecati eum harum quae amet consequatur sit.",
+      "image": "http://placeimg.com/640/480/transport",
+      "id": "31"
+    }
+  ],
+  "catalogo": [
+    {  
+      "id": "1",  
+      "title": "Cama",
+      "description": "Cama",
+      "price": "S/. 1,200",
+      "image": "https://picsum.photos/200"
+    },
+    {  
+      "id": "2",  
+      "title": "Cocina",
+      "description": "Cocina",
+      "price": "S/.3,200",
+      "image": "https://picsum.photos/200"
+    },
+    {  
+      "id": "3",  
+      "title": "Armario",
+      "description": "Armario",
+      "price": "S/.1,200",
+      "image": "https://picsum.photos/200"
+    },
+    {  
+      "id": "4",  
+      "title": "Escritorio en L",
+      "description": "Escritorio",
+      "price": "S/.1,800",
+      "image": "https://picsum.photos/200"
+    },
+    {  
+      "id": "5",  
+      "title": "Escritorio",
+      "description": "Escritorio",
+      "price": "S/.1,500",
+      "image": "https://picsum.photos/200"
+    },
+    {  
+      "id": "6",  
+      "title": "Sillón reclinable",
+      "description": "Sillón",
+      "price": "S/.900",
+      "image": "https://picsum.photos/200"
+    },
+    {  
+      "id": "7",  
+      "title": "Mesa de centro",
+      "description": "Mesa",
+      "price": "S/.700",
+      "image": "https://picsum.photos/200"
+    },
+    {  
+      "id": "8",  
+      "title": "Mesa comedor",
+      "description": "Mesa",
+      "price": "S/.1,700",
+      "image": "https://picsum.photos/200"
+    }
+  ],
+  "usuarios": [
+    {
+      "user": "admin",
+      "password": "123456",
+      "response": {
+        "data": {
+          "name": "Juanito",
+          "lastname": "Perez",
+          "age": 35
+        }
+      }
+    },
+    {
+      "user": "admin2",
+      "password": "123456",
+      "response": {
+        "data": {
+          "name": "Rosita",
+          "lastname": "Rojas",
+          "age": 33
+        }
+      }
+    }
+  ],
+  "contacto": [
+    {
+      "nombre": "Pepito",
+      "apellido": "Ramirez",
+      "telefono": "923708059",
+      "correo": "pramirez@gmail.com",
+      "pais": "peru",
+      "presupuesto": "500-1000",
+      "comentario": "jajaja hola mundo!!!!!!",
+      "id": 1
+    }
+  ]
+}
